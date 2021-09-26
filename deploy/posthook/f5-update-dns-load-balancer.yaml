@@ -14,5 +14,5 @@ spec:
     # The AWS Route53 NS Record must exist with NameServers:
     # ns1.f5cloudservices.com
     # ns2.f5cloudservices.com
-    GSLB_ZONE: f5
+    GSLB_ZONE: lb
     BASE_DOMAIN: demolab.pro
