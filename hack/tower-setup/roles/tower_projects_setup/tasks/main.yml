@@ -76,7 +76,7 @@
     organization: "Default"
     state: present
     scm_type: git
-    scm_url: https://github.com/mdelder/ansible-servicenow.git
+    scm_url: https://github.com/apoczekalewicz/ansible-servicenow.git
 
 - name: "Add Job Template: \"snow-create-change-record\""
   awx.awx.tower_job_template:
@@ -95,7 +95,7 @@
     organization: "Default"
     state: present
     scm_type: git
-    scm_url: https://github.com/mdelder/f5-bd-gslb-tool.git
+    scm_url: https://github.com/apoczekalewicz/f5-bd-gslb-tool.git
     scm_branch: modified-for-tower
 
 
