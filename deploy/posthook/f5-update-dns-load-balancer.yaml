@@ -16,3 +16,4 @@ spec:
     # ns2.f5cloudservices.com
     GSLB_ZONE: lb
     BASE_DOMAIN: demolab.pro
+    BASE_AWS_DOMAIN: sandbox302.opentlc.com
